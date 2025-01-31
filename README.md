@@ -3,6 +3,7 @@ A mini-project built to understand Node.js, where we extract data from a JSON fi
 
 ## 🚀 Tech Stack
 ● Frontend: HTML, CSS, JavaScript
+
 ● Backend: Node.js
 
 ## 📌 Features
@@ -30,20 +31,28 @@ A mini-project built to understand Node.js, where we extract data from a JSON fi
 1️⃣ Clone the repository:
 
 git clone https://github.com/yourusername/Node-Farm.git
+
 2️⃣ Navigate to the project directory:
 
 cd Node-Farm
+
 3️⃣ Install dependencies (if any):
 
 npm install
+
 4️⃣ Start the server:
+
 node index.js
+
 5️⃣ Open in browser:
+
 http://localhost:8000
 
 ##📢 Learning Outcomes
 ✅ Understanding of Node.js and handling JSON data
+
 ✅ Basics of creating a server without Express.js
+
 ✅ Rendering dynamic content using templates
 
 🚀Drop a 💫 if you liked it.
